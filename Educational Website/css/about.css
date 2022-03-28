@@ -108,7 +108,7 @@
 }
 
 .team_member-image img {
-    filter: saturate(0);
+    filter: saturate(0.7);
 }
 
 .team_member-image:hover img {
@@ -173,7 +173,7 @@
     }
 }
 
-/* ===============MEDIA QUERIES (PHONES)============== */
+/* ===============MEDIA QUERIES (PHONES)================== */
 
 @media screen and (max-width:600px) {
 
