@@ -108,7 +108,7 @@
 }
 
 .team_member-image img {
-    filter: saturate(0.7);
+    filter: saturate(0.8);
 }
 
 .team_member-image:hover img {
